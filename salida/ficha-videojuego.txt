@@ -1,0 +1,11 @@
+
+FICHA DE VIDEOJUEGO
+===================
+Estudiante: Isa
+Node.js: v22.16.0
+Plataforma del sistema: win32
+Título: Minecraft
+Estudio: Mojang Studios
+Año: 2011
+Plataformas: PC, PlayStation, Xbox
+¿Es multijugador?: Sí
